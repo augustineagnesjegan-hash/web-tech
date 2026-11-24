@@ -1,0 +1,5 @@
+/* Practicum 15: page-specific layout refinements */
+.hero{min-height:230px}
+main{padding-top:32px}
+#tg .item{padding:17px;border-radius:12px}
+#tg .item strong{font-size:.95rem}
